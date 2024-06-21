@@ -1,7 +1,7 @@
 # ASL_call_for_help_video_classification
 ## Language: Python 
 ### Project Type : Deep Learning in Artificial Intelligence 
-### Index Terms—DCNN, CNN, InceptionV3, LSTM, GRU, Gesture Recognition, Social Media, Platform and Online Safety.
+### Index Terms—Video, Keyframe Extraction, Body Motion Detection, Gaming Theory Frame extraction, DCNN, CNN, InceptionV3, LSTM, GRU, Gesture Recognition, Social Media, Platform and Online Safety.
 
 Current social media platforms do not offer a sign language detection model that fits the online deaf-mute community, in this paper, we deliver a groundbreaking Sign language
 recognition model for call for help ASL Signs. Despite the fast-growing user volumes on social media platforms, the existing safety detection is based on written or spoken words and not
@@ -12,3 +12,13 @@ test data. When using an ensemble of predictions from LSTM and DCNN models, we w
 
 
 ![Capture](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/2fb500c5-b9bf-4ac6-a124-61b9b70e1786)
+
+
+
+### Pre-processing of Data
+The primary technique comes from the gaming theory method, the established model first calculates and sum up the
+screen pixels that fall in the threshold values of HSV and
+YCbCr which reflects on exposed skin colour. This method
+can detect and extract five images that contain skin color
+with the highest pixel counts. 
+![Capture](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/65d4905a-fde5-44c8-81a6-57632a80130b)

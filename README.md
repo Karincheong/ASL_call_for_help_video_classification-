@@ -2,7 +2,7 @@
 ## Python Code 
 
 Project Type : Deep Learning in Artificial Intelligence 
-** Index Terms—DCNN, CNN, InceptionV3, LSTM, GRU, Gesture Recognition, Social Media, Platform and Online Safety.
+### Index Terms—DCNN, CNN, InceptionV3, LSTM, GRU, Gesture Recognition, Social Media, Platform and Online Safety.
 
 Current social media platforms do not offer a sign language detection model that fits the online deaf-mute community, in this paper, we deliver a groundbreaking Sign language
 recognition model for call for help ASL Signs. Despite the fast-growing user volumes on social media platforms, the existing safety detection is based on written or spoken words and not

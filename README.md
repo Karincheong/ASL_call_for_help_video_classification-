@@ -1,5 +1,5 @@
 # ASL_call_for_help_video_classification
-# Python 
+## Python Code 
 Currently, the Social Media platform does not offer a sign language detection model that fits the online deaf-mute community, in this paper, we deliver a groundbreaking Sign language
 recognition model for call for help ASL Signs. Despite the fast-growing user volumes on social media platforms, the existing safety detection is based on written or spoken words and not
 focused on body or hand gestures. In our study, we focus on call-for-help signs detection which also can be used to detect call-for-help-related body gestures from video and ensure users are safe.

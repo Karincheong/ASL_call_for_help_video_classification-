@@ -17,8 +17,8 @@ test data. When using an ensemble of predictions from LSTM and DCNN models, we w
 
 ### Pre-processing of Data
 The primary technique comes from the gaming theory method, the established model first calculates and sum up the
-screen pixels that fall in the threshold values of HSV and
-YCbCr which reflects on exposed skin colour. This method
-can detect and extract five images that contain skin color
-with the highest pixel counts. 
+screen pixels that fall in the threshold values of HSV and YCbCr which reflects on exposed skin color. This method
+can detect and extract five images that contain skin color with the highest pixel counts. 
+
+
 ![Capture](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/65d4905a-fde5-44c8-81a6-57632a80130b)

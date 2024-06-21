@@ -1,6 +1,5 @@
 # ASL_call_for_help_video_classification
-## Python Code 
-
+## Language: Python 
 ### Project Type : Deep Learning in Artificial Intelligence 
 ### Index Terms—DCNN, CNN, InceptionV3, LSTM, GRU, Gesture Recognition, Social Media, Platform and Online Safety.
 
